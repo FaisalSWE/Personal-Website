@@ -22,5 +22,5 @@ A clean, responsive personal website showcasing my experience, skills, and proje
 ## Deployment
 
 This website can be easily deployed to static site hosting service:
-* [GitHub Pages]()
+* [GitHub Pages](https://faisalswe.github.io/Personal-Website/)
 * Simply upload the contents of this repository to your chosen hosting platform.
